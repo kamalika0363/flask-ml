@@ -100,15 +100,15 @@ Company Name : Slack Technologies, Inc.
     Business Model: Private
     Revenue: $10,001 - $50,000 (USD)
     Profit: Not generating profit
-    Total External Funding: 700000000
+    Total External Funding: 70000
     Notable Investors: Rupert Murdoch, Larry Ellison
     Competition Region: North America
     Team Size: Small team with high turnover
     Market Opportunity / Problem to be solved: Initially aimed to simplify and reduce the cost of blood testing, but faced significant issues with product accuracy and reliability.
     Innovation: Claimed to have groundbreaking blood testing technology, later proven to be ineffective and inaccurate.
-    Business Model: Promised high returns but faced substantial operational and technical challenges.
-    Scalability: Significant scalability issues due to unproven technology and regulatory hurdles.
-    Traction: Initial hype followed by major legal and regulatory setbacks. Company ceased operations.
+    Business Model: Promised high returns but faced substantial operational and technical challenges. Bad Experince
+    Scalability: Significant scalability issues due to unproven technology and regulatory hurdles. Bad Service
+    Traction: Initial hype followed by major legal and regulatory setbacks. Company ceased operations. Illegal Activities
     
 
 
