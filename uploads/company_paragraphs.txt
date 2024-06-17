@@ -1,0 +1,26 @@
+Company Name: Startup 1
+Gender: FEMALE
+Company Description: Dropbox lets you save and access all your files and photos in one place for easy sharing. Easily share files & access team content from your computer, mobile or any web browser. 
+Company Website: https://www.dropbox.com/
+Job Titles: Chief Operating Officer (COO)/ Head of Operations
+Business Model: nan
+Revenue: $50,001 - $250,000 (USD)
+Profit: Not generating profit yet
+Total External Funding: 4000000
+Notable Investors: Y Combinator, Sequioa Capital
+Competition Region: North America
+Its customer base has been expanding rapidly across different regions. The team consists of experienced professionals from diverse backgrounds.
+
+Company Name: Startup 2
+Gender: MALE
+Company Description: Airbnb, Inc. is an online marketplace for short- and long-term homestays and experiences. We act as a broker and charges a commission from each booking. 
+Company Website: https://www.airbnb.com
+Job Titles: Chief Executive Officer (CEO)
+Business Model: nan
+Revenue: Not generating revenue yet
+Profit: Not generating profit yet
+Total External Funding: 0
+Notable Investors: nan
+Competition Region: South East Asia
+It is known for its innovative solutions in the industry. Its customer base has been expanding rapidly across different regions.
+

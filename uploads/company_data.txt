@@ -1,0 +1,173 @@
+Company Name : Dropbox Inc.
+    Gender: FEMALE
+    Company Description: Dropbox lets you save and access all your files and photos in one place for easy sharing. Easily share files & access team content from your computer, mobile or any web browser. 
+    Company Website: https://www.dropbox.com/
+    Job Titles: Chief Operating Officer (COO)/ Head of Operations
+    Business Model: nan
+    Revenue: $50,001 - $250,000 (USD)
+    Profit: Not generating profit yet
+    Total External Funding: 4000000
+    Notable Investors: Y Combinator, Sequioa Capital
+    Competition Region: North America
+    Team Size: Complementary team with some founders having significant work experience
+    Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+    Innovation: Some unique IP, patents or data (pending patent)
+    Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+    Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+    Traction: Prototype testing with initial customers (Beta testing)
+
+Company Name : Uber Technologies, Inc.
+    Gender: MALE
+    Company Description: Uber Technologies, Inc. offers ride-hailing services, food delivery, package delivery, couriers, freight transportation, and a partnership with Lime scooters and bikes.
+    Company Website: https://www.uber.com
+    Job Titles: Chief Technology Officer (CTO)
+    Business Model: Public
+    Revenue: $500,001 - $1,000,000 (USD)
+    Profit: $100,000 (USD)
+    Total External Funding: 25000000
+    Notable Investors: SoftBank, Benchmark Capital
+    Competition Region: Global
+    Team Size: Experienced team with a mix of technical and business expertise
+    Market Opportunity / Problem to be solved: Revolutionizes urban transportation by providing on-demand mobility solutions in large urban centers. Strong market presence and user base in cities worldwide.
+    Innovation: Advanced algorithms for dynamic pricing and route optimization. Developing autonomous vehicle technology.
+    Business Model: Well-established business model with multiple revenue streams including rides, delivery, and partnerships.
+    Scalability: Highly scalable with established global operations and expansion plans.
+    Traction: Significant user base with millions of rides completed daily.
+
+Company Name : SpaceX Technologies Inc.
+    Gender: MALE
+    Company Description: SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded to revolutionize space technology, with the ultimate goal of enabling people to live on other planets.
+    Company Website: https://www.spacex.com
+    Job Titles: Chief Financial Officer (CFO)
+    Business Model: Private
+    Revenue: $1,000,001 - $2,000,000 (USD)
+    Profit: $500,000 (USD)
+    Total External Funding: 500000000
+    Notable Investors: Founders Fund, Google
+    Competition Region: Global
+    Team Size: Highly specialized team with deep industry knowledge and engineering expertise
+    Market Opportunity / Problem to be solved: Addresses the high cost of space travel with reusable rockets and aims to reduce barriers to space exploration.
+    Innovation: Pioneering reusable rocket technology, ongoing development of the Starship for Mars missions.
+    Business Model: Mix of government contracts, commercial satellite launches, and future plans for space tourism.
+    Scalability: Operations expanding with new launch sites and international partnerships.
+    Traction: Successfully launched and landed multiple rockets, significant contracts with NASA and commercial clients.
+    
+
+Company Name : Pinterest  
+    Gender: FEMALE
+    Company Description: Pinterest is a visual discovery engine for finding ideas like recipes, home and style inspiration, and more.
+    Company Website: https://www.pinterest.com
+    Job Titles: Chief Marketing Officer (CMO)
+    Business Model: Public
+    Revenue: $250,001 - $500,000 (USD)
+    Profit: $50,000 (USD)
+    Total External Funding: 15000000
+    Notable Investors: Andreessen Horowitz, Bessemer Venture Partners
+    Competition Region: Global
+    Team Size: Dynamic team with strong backgrounds in social media and consumer technology
+    Market Opportunity / Problem to be solved: Provides a unique platform for users to visually discover and save ideas, filling a niche in the social media landscape.
+    Innovation: Advanced image recognition technology and machine learning algorithms to recommend content.
+    Business Model: Ad-based revenue model with growing interest from e-commerce partners.
+    Scalability: Rapidly scalable with growing user base and international expansion.
+    Traction: Over 400 million monthly active users, significant engagement metrics.
+    
+
+Company Name : Slack Technologies, Inc.
+    Gender: MALE
+    Company Description: Slack Technologies, Inc. is a business communication platform offering chat, video calls, and file sharing in a centralized workspace.
+    Company Website: https://slack.com
+    Job Titles: Chief Product Officer (CPO)
+    Business Model: Public
+    Revenue: $150,001 - $300,000 (USD)
+    Profit: Not generating profit yet
+    Total External Funding: 12000000
+    Notable Investors: Accel, Andreessen Horowitz
+    Competition Region: North America
+    Team Size: Talented team with diverse skills in software development and enterprise solutions
+    Market Opportunity / Problem to be solved: Enhances team productivity and communication, replacing traditional email with a more efficient platform.
+    Innovation: Integrations with numerous third-party applications, robust API for customization.
+    Business Model: Subscription-based revenue with tiered pricing for different business sizes.
+    Scalability: Strong potential for growth, expanding user base in various industries.
+    Traction: Widely adopted by numerous companies, including many Fortune 500 firms.
+    
+
+
+    Company Name : Theranos 
+    Gender: MALE
+    Company Description: Theranos Inc. was a health technology company that aimed to revolutionize blood testing by developing rapid, automated, and minimally invasive blood tests.
+    Company Website: https://www.theranos.com
+    Job Titles: Chief Executive Officer (CEO)
+    Business Model: Private
+    Revenue: $10,001 - $50,000 (USD)
+    Profit: Not generating profit
+    Total External Funding: 700000000
+    Notable Investors: Rupert Murdoch, Larry Ellison
+    Competition Region: North America
+    Team Size: Small team with high turnover
+    Market Opportunity / Problem to be solved: Initially aimed to simplify and reduce the cost of blood testing, but faced significant issues with product accuracy and reliability.
+    Innovation: Claimed to have groundbreaking blood testing technology, later proven to be ineffective and inaccurate.
+    Business Model: Promised high returns but faced substantial operational and technical challenges.
+    Scalability: Significant scalability issues due to unproven technology and regulatory hurdles.
+    Traction: Initial hype followed by major legal and regulatory setbacks. Company ceased operations.
+    
+
+
+    Company Name : Juicero 
+    Gender: FEMALE
+    Company Description: Juicero Inc. developed a juicing system that used pre-packaged fruit and vegetable packs to create fresh juice at home.
+    Company Website: https://www.juicero.com
+    Job Titles: Chief Operating Officer (COO)
+    Business Model: Private
+    Revenue: $50,001 - $100,000 (USD)
+    Profit: Not generating profit
+    Total External Funding: 120000000
+    Notable Investors: Alphabet Inc., Kleiner Perkins
+    Competition Region: North America
+    Team Size: Small team with limited industry experience
+    Market Opportunity / Problem to be solved: Targeted health-conscious consumers with a high-end juicing solution, but faced criticism for high product cost and limited value proposition.
+    Innovation: Developed a high-tech juicing machine, but it was overshadowed by the fact that the juice packs could be manually squeezed by hand without the machine.
+    Business Model: Dependent on continuous sales of proprietary juice packs, which were expensive.
+    Scalability: Limited due to high production costs and low market demand.
+    Traction: Initial interest followed by widespread criticism and eventual shutdown.
+    
+
+
+    Company Name : MoviePass 
+    Gender: MALE
+    Company Description: MoviePass Inc. offered a subscription service that allowed customers to watch multiple movies in theaters for a flat monthly fee.
+    Company Website: https://www.moviepass.com
+    Job Titles: Chief Financial Officer (CFO)
+    Business Model: Private
+    Revenue: $5,001 - $20,000 (USD)
+    Profit: Operating at a loss
+    Total External Funding: 68000000
+    Notable Investors: Helios and Matheson Analytics
+    Competition Region: North America
+    Team Size: Small team with limited financial sustainability
+    Market Opportunity / Problem to be solved: Attempted to disrupt the traditional movie-going experience with an affordable subscription model, but faced unsustainable financial losses.
+    Innovation: Unique subscription model for unlimited movie access, but lacked a viable path to profitability.
+    Business Model: Priced too low to cover costs, leading to significant financial losses.
+    Scalability: Failed to scale due to unsustainable pricing and high operational costs.
+    Traction: Rapid initial growth followed by financial instability and service interruptions. Company ceased operations.
+    
+
+
+    Company Name : Quibi 
+    Gender: FEMALE
+    Company Description: Quibi was a short-form streaming platform that offered quick bites of entertainment content designed for mobile viewing.
+    Company Website: https://www.quibi.com
+    Job Titles: Chief Marketing Officer (CMO)
+    Business Model: Private
+    Revenue: $100,001 - $250,000 (USD)
+    Profit: Not generating profit
+    Total External Funding: 1750000000
+    Notable Investors: Disney, NBCUniversal, Sony Pictures
+    Competition Region: Global
+    Team Size: Large team with high-profile executives but frequent strategic changes
+    Market Opportunity / Problem to be solved: Aimed to capture the mobile streaming market with high-quality, short-form content but struggled with user adoption.
+    Innovation: High production value for mobile content, but the concept did not resonate with a broad audience.
+    Business Model: Subscription-based service that failed to attract and retain subscribers.
+    Scalability: Issues scaling due to poor market fit and high competition from established streaming services.
+    Traction: Launched with significant media attention but faced disappointing user engagement and financial losses. Platform shut down within a year.
+    
+
