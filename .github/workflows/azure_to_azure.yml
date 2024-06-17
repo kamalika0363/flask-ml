@@ -50,7 +50,8 @@ jobs:
         rm -rf myenv
         touch .env
         echo "${{ secrets.ENV }}" > .env
-        chmod +x start_test_flask.sh
+        chmod +x start_app_flask.sh
+        sudo systemctl stop flask_app.service
         sudo systemctl daemon-reload
         sudo systemctl enable flask_app.service
         sudo systemctl start flask_app.service
