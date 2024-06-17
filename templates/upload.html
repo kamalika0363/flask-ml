@@ -1,13 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Upload CSV</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body>
-    <h1>Upload CSV File</h1>
-    <form action="{{ url_for('upload_file') }}" method="post" enctype="multipart/form-data">
-        <input type="file" name="file">
-        <input type="submit" value="Upload">
-    </form>
+<body class="bg-gray-100 font-sans">
+
+    <!-- Hero Section -->
+    <section class="flex flex-col items-center justify-center h-screen bg-black text-white">
+        <h1 class="text-5xl font-extrabold mb-4">Startup Screener</h1>
+        <p class="text-lg mb-8">Easily upload your CSV files for processing</p>
+        <a href="#upload-section" class="bg-white font-semibold text-purple-500 py-3 px-6 rounded-full hover:bg-gray-200 transition duration-300">Get Started</a>
+    </section>
+
+    <!-- Upload Section -->
+    <section id="upload-section" class="flex bg-black items-center justify-center h-screen">
+        <div class="p-8 border bg-gray-300 border-indigo-500 rounded-lg shadow-lg w-96">
+            <h1 class="text-2xl font-bold mb-6 text-gray-800">Upload CSV File</h1>
+            <form action="{{ url_for('upload_file') }}" method="post" enctype="multipart/form-data">
+                <input type="file" name="file" class="mb-4 border border-gray-300 p-2 w-full rounded">
+                <input type="submit" value="Upload" class="bg-purple-500 text-white py-2 px-4 rounded w-full hover:bg-purple-600 transition duration-300 cursor-pointer">
+            </form>
+        </div>
+    </section>
+
 </body>
 </html>

@@ -1,0 +1,701 @@
+text,label
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Very strong innovation (IP / data)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model is impossible to realize
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Very strong innovation (IP / data)
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model is impossible to realize
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Sustainable business (significant profit)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Business model is impossible to realize
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model is impossible to realize
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Very strong innovation (IP / data)
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Prototype testing with initial customers (Beta testing)
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model is impossible to realize
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",NOT ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model is impossible to realize
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Very strong innovation (IP / data)
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Prototype testing with initial customers (Beta testing)
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Very strong innovation (IP / data)
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Prototype testing with initial customers (Beta testing)
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Business model is impossible to realize
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Prototype testing with initial customers (Beta testing)
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model is impossible to realize
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Very strong innovation (IP / data)
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Prototype testing with initial customers (Beta testing)
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Very strong innovation (IP / data)
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model is impossible to realize
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model is impossible to realize
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model is impossible to realize
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model is impossible to realize
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Prototype testing with initial customers (Beta testing)
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model is impossible to realize
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",NOT ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Business model is impossible to realize
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Sustainable business (significant profit)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model is impossible to realize
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Business model is impossible to realize
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",NOT ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Very strong innovation (IP / data)
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Prototype testing with initial customers (Beta testing)
+",ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model is impossible to realize
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Sustainable business (significant profit)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model is impossible to realize
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model is impossible to realize
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model is impossible to realize
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Very strong innovation (IP / data)
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Very strong innovation (IP / data)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Sustainable business (significant profit)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Very strong innovation (IP / data)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Prototype testing with initial customers (Beta testing)
+",ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Generating first revenues with paying customers. Has clear milestones and KPIs
+",ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Very strong innovation (IP / data)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Very strong innovation (IP / data)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Prototype testing with initial customers (Beta testing)
+",ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Great potential to scale globally and has started to establish good networks in these countries but scaling has not started yet.
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some unique IP, patents or data (pending patent)
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Very strong innovation (IP / data)
+Business Model: Business model is impossible to realize
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Team of 2+, little to no experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Very strong value proposition to customers. Clear customer identification with unique positioning in mostly untapped market (more than or equals to USD 1 billion).
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Sustainable business (significant profit)
+",ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained, but not validated. Financial projections may or may not be available
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Single founder, no team, no experience
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Good revenue model / business model is defined and has been validated with large number of customers
+Scalability: Has become well established in 1 City / small country. Has not started to scale anywhere else. No issue to scale otherwise
+Traction: Generating moderate revenue with paying customers. Has developed a lot of interest / relationships with key market participants or have significant traffic and engagement with customers.
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem with a midsize market, well served by competitors
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Business model is impossible to realize
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with multiple exits
+Market Opportunity / Problem to be solved: No market need, unclear problem that they are solving. Poor customer identification.
+Innovation: No to Low innovation - localization of proven business models without change
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has the potential to scale beyond 1 city / small country, but has some issues to scale
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
+"Team Size: Complementary team with some founders having significant work experience
+Market Opportunity / Problem to be solved: Product solves a problem and has an attractive niche in a large market. Good value proposition to customers. Clear customer identification with unique positioning.
+Innovation: Low innovation - localization of proven business model adapted to some markets
+Business Model: Hints at possible business model, financial projections need to be worked on
+Scalability: Solution has no issues to scale globally or within home country but scaling has not started
+Traction: Prototype testing with initial customers (Beta testing)
+",NOT ELIGIBLE
+"Team Size: Serial Entrepreneur(s) with no exits
+Market Opportunity / Problem to be solved: Product solves a problem with a large market, well served by some competitors
+Innovation: Some innovation - significant improvement of existing solution
+Business Model: Business model explained and first validation / tests are successful with real customers.
+Scalability: Solution is very manual / manpower heavy - no chance at scalability
+Traction: Very little traction (social media engagement, landing page collecting potential customer info)
+",NOT ELIGIBLE
