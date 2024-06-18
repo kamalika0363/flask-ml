@@ -3,7 +3,7 @@
 This project automates the screening process for startups by leveraging a fine-tuned AI model. The application evaluates startups based on existing criteria and determines their eligibility for funding. The only input required is a CSV file containing the startup details with specific required columns.
 
 ## Demo 
-<http://cwb-kammo.centralindia.cloudapp.azure.com/> (don't use https)
+<http://cwb-kamo.centralindia.cloudapp.azure.com/> (don't use https)
 
 ### Example Output
 ![alt text](image-1.png)
