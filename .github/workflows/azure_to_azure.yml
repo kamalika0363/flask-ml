@@ -40,11 +40,11 @@ jobs:
         ssh-keyscan -H ${{ secrets.VM_IP_ADDRESS }} >> ~/.ssh/known_hosts
          
         # Copy the ZIP file to the VM
-        scp -i vm_key.pem project_t.zip ${{ secrets.VM_USERNAME }}@${{ secrets.VM_IP_ADDRESS }}:/home/${{ secrets.VM_USERNAME }}/flask-ml/
+        scp -i vm_key.pem project_t.zip ${{ secrets.VM_USERNAME }}@${{ secrets.VM_IP_ADDRESS }}:/home/kamalikaghora14/flask-ml/
        
         # SSH into the VM, unzip file, delete ZIP, create .env, and start the application
         ssh -i vm_key.pem ${{ secrets.VM_USERNAME }}@${{ secrets.VM_IP_ADDRESS }} << 'EOF'
-        cd /home/${{ secrets.VM_USERNAME }}/flask-ml
+        cd /home/kamalikaghora14/flask-ml
         unzip -o project_t.zip
         rm project_t.zip
         rm -rf myenv
